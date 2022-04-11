@@ -15,5 +15,6 @@ public class Find {
     public static void main(String[] args) {
         int array[] = {5, 8, 12, 30, 2, 10 };
         System.out.println(find(array,2));
+        //
     }
 }

@@ -36,6 +36,6 @@ public class Delete {
             System.out.println(array[i]);
         }
 
-
+//
     }
 }
